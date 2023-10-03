@@ -1,0 +1,7 @@
+C:\Users\ionut\Dropbox\PC\Desktop\Basic_C#_Programs\Accounting_Software\bin\Debug\Accounting_Software.exe.config
+C:\Users\ionut\Dropbox\PC\Desktop\Basic_C#_Programs\Accounting_Software\bin\Debug\Accounting_Software.exe
+C:\Users\ionut\Dropbox\PC\Desktop\Basic_C#_Programs\Accounting_Software\bin\Debug\Accounting_Software.pdb
+C:\Users\ionut\Dropbox\PC\Desktop\Basic_C#_Programs\Accounting_Software\obj\Debug\Accounting_Software.csproj.AssemblyReference.cache
+C:\Users\ionut\Dropbox\PC\Desktop\Basic_C#_Programs\Accounting_Software\obj\Debug\Accounting_Software.csproj.CoreCompileInputs.cache
+C:\Users\ionut\Dropbox\PC\Desktop\Basic_C#_Programs\Accounting_Software\obj\Debug\Accounting_Software.exe
+C:\Users\ionut\Dropbox\PC\Desktop\Basic_C#_Programs\Accounting_Software\obj\Debug\Accounting_Software.pdb
