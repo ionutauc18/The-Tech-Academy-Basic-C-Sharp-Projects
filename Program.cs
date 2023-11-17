@@ -46,7 +46,7 @@ namespace ConsoleAppArrayAssignment
             {
                 try
                 {
-                    Console.WriteLine("The best player of yout team is: " + BestPlayerList[listSelect]);
+                    Console.WriteLine("The best player of your team is: " + BestPlayerList[listSelect]);
                     validList = true;
                 }
                 // This line adds an error message to display if the user picks an index that doesn't exist
